@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 
 function Projects(props) {
     // create state to hold projects
-    const [projects, setProjects] = useState(null);
+    const [projects, setProjects] = useState([]);
 
     //create function to make api call
     const getProjectsData = async () => {
