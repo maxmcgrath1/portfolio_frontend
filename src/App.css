@@ -40,6 +40,7 @@
 button {
   display: flex;
   flex-direction: column;
+  background-color: blue;
   color: blue;
 }
 
@@ -51,4 +52,12 @@ button {
 
 img {
   width: 300px;
+}
+
+.homemessage {
+  color: red
+}
+
+.projname {
+  color: teal
 }

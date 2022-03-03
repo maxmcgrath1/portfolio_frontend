@@ -21,7 +21,7 @@ function Projects(props) {
     const loaded = () => {
         return projects.map((project) => (
             <div className = "project">
-                <h1>{project.name}</h1>
+                <h1 className ="projname">{project.name}</h1>
                 <img src={project.image} alt={project.name} />
                 <h3>{project.description}</h3>
                 <a href={project.git}>
