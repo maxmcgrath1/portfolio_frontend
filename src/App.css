@@ -44,20 +44,25 @@ button {
   color: blue;
 }
 
-.project {
-  padding: 0 0 100px 0;
-  border: solid red 2px;
-  margin: 10px;
+.homemessage {
+  color: teal
 }
 
 img {
   width: 300px;
 }
 
-.homemessage {
-  color: red
+.maintitle {
+  color: red;
+}
+
+.project {
+  padding: 0 0 100px 0;
+  border: solid red 2px;
+  margin: 10px;
 }
 
 .projname {
   color: teal
 }
+
