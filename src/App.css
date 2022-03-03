@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  display: flex;
+  flex-direction: column;
+  color: blue;
+}
+
+.project {
+  padding: 0 0 100px 0;
+  border: solid red 2px;
+  margin: 10px;
+}
+
+img {
+  width: 300px;
+}
