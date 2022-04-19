@@ -6,7 +6,6 @@ button {
   display: flex;
   flex-direction: column;
   background-color: blue;
-  color: blue;
   height: 25px;
   width: 100px;
   margin-bottom: 30px;
