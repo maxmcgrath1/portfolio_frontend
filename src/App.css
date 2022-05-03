@@ -32,6 +32,11 @@ img {
   align-items: center;
 }
 
+.projectDescription {
+  padding: 15px;
+  text-align: center;
+}
+
 .projname {
   color: teal;
 }
