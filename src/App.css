@@ -1,5 +1,10 @@
 .about {
   text-align: center;
+  color: white;
+  padding: 40px;
+}
+
+body {
   background-color: black;
 }
 
@@ -10,9 +15,9 @@ button {
 }
 
 .homeMessage {
-  color: teal;
+  color: rgb(21, 238, 238);
   text-align: center;
-  padding-top: 25px;
+  padding-top: 40px;
 }
 
 img {
@@ -35,9 +40,10 @@ img {
 .projectDescription {
   padding: 15px;
   text-align: center;
+  color: white;
 }
 
 .projname {
-  color: teal;
+  color: rgb(21, 238, 238);
 }
 
