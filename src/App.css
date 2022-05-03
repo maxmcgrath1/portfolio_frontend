@@ -12,6 +12,7 @@ button {
 .homeMessage {
   color: teal;
   text-align: center;
+  padding-top: 25px;
 }
 
 img {
