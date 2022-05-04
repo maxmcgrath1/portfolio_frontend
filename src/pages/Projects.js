@@ -25,7 +25,7 @@ function Projects(props) {
                 <img src={project.image} alt={project.name} />
                 <h3 className="projectDescription">{project.description}</h3>
                 <a href={project.git}>
-                    <button className="btn btn-info">GitHub</button>
+                    <button className="btn btn-info">GitHub Repo</button>
                 </a>
                 <a href={project.live}>
                     <button className="btn btn-primary">Live Site</button>

@@ -22,6 +22,9 @@ function About(props) {
         <div className="about">
             <img className='headshot' src={about.headshot} alt='headshot'/>
             <h1 className="aboutName">{about.name}</h1>
+            <a href="https://github.com/maxmcgrath1">
+                <button className="btn btn-primary">My GitHub</button>
+            </a>
             <h3 className="aboutEmail">email: {about.email}</h3>
             <p className="aboutBio">{about.bio}</p>
         </div>
