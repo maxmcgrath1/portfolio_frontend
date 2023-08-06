@@ -6,7 +6,7 @@ import About from './pages/About';
 import Projects from './pages/Projects';
 
 function App() {
-  const URL = "https://portfolio-backend-xlkn.onrender.com/"
+  const URL = "https://portfolio-backend-xlkn.onrender.com"
 
   return (
     <div className="App">
