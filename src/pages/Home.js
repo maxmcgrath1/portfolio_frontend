@@ -1,6 +1,5 @@
 function Home(props) {
-    return <h1 className = "homeMessage">Welcome to my portfolio! Click on projects to see a list < br />
-        of what I have worked on so far.
+    return <h1 className = "homeMessage">Welcome to my portfolio! 
     </h1>;
 }
 
