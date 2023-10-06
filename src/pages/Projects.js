@@ -4,7 +4,7 @@ function Projects(props) {
     // create state to hold projects
     const [projects, setProjects] = useState([]);
 
-    //create function to make api call
+    //create async function to make api call
     const getProjectsData = async () => {
         //make api call and get response
         const response = await fetch(props.URL + "projects");
