@@ -3,7 +3,7 @@ function Home(props) {
         <hr />
         <hr />
         Hello and welcome to my portfolio! <br />
-        My current work is under the projects tab! < br />
+        My recent work is under the projects tab! < br />
         There are 4 currently, but more will be available soon!
         <hr />
         <hr />
