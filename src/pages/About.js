@@ -24,7 +24,7 @@ function About(props) {
             <h1 className="aboutName">{about.name}</h1>
             <h3 className="aboutEmail">email: {about.email}</h3>
             <a href="https://github.com/maxmcgrath1">
-                <button className="btn btn-primary">My GitHub</button>
+                <button className="btn btn-primary">GitHub</button>
             </a>
             <p className="aboutBio">{about.bio}</p>
         </div>
